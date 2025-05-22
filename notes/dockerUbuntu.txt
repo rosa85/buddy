@@ -1,0 +1,25 @@
+wsl -d Ubuntu - start sytemu ubuntu na windows
+wsl --list --verbose
+
+docker build -t spring-app .
+docker build -t node-app .
+docker run -p 8080:8080 spring-app
+
+docker network create my_network
+docker run -d --name spring-container --network my_network -p 8080:8080 spring-app
+docker run -d --name node-container --network my_network -p 3000:3000 node-app
+
+
+
+gpc
+project number 522762781675
+extended-argon-459909-f1
+login gcloud auth login
+Api containerregistry
+gcloud services enable containerregistry.googleapis.com
+tocken autoryzacji dla docer
+gcloud auth configure-docker
+
+https://www.photopea.com/
+
+

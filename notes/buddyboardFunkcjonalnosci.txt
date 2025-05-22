@@ -1,0 +1,11 @@
+1. Tworzenie profili zwierząt
+Każdy zwierzak ma swój profil, w którym właściciel może umieścić takie informacje jak: imię, gatunek, rasa, wiek, zdjęcia, anegdotki i ciekawostki.
+To tworzy od razu osobisty i emocjonalny aspekt aplikacji – użytkownicy mogą w pełni zaprezentować swoich pupili.
+2. Sekcja "Szukam Opiekuna" (Pet-Sitting)
+Funkcja pozwala łatwo znaleźć tymczasowego opiekuna dla pupila. Użytkownik zaznacza szczegóły, jak: daty opieki, rodzaj opieki (karmienie, spacer, opieka domowa).
+Osoby zgłaszające się jako opiekunowie mogą tworzyć swoje "profile opiekuna" z opisem doświadczenia oraz opiniami od innych użytkowników.
+4. Tablica społecznościowa (zdjęcia, posty, pytania)
+Użytkownicy mogą dzielić się zdjęciami swoich pupili, filmami, czy postami – np. informacjami o codziennym życiu zwierzaka, poradami lub pytaniami.
+Wersja tablicy mogłaby być bardziej minimalistyczna niż na klasycznych platformach, aby utrzymać prostotę.
+Sekcja "trendy" z najlepszymi postami dnia lub tygodnia o dużym zaangażowaniu.
+5. profil opiekuna, ktory mozna oceniac pod kątem jakosci opieki
